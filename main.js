@@ -167,7 +167,7 @@ function createWindow () {
             preload: path.join(__dirname, 'preload.js'),
             contextIsolation: true,
         },
-        width: 1100,
+        width: 1300,
         height: 650,
         minWidth: 1100,
         minHeight: 625
